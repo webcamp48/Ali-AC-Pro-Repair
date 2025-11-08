@@ -71,7 +71,7 @@ const About = () => {
               <div className="relative">
                 <div className="bg-white/10 backdrop-blur-lg border border-white/20 rounded-3xl p-8">
                   <img
-                    src="https://images.pexels.com/photos/5691660/pexels-photo-5691660.jpeg?auto=compress&cs=tinysrgb&w=600"
+                    src="/ac-5.jpg?auto=compress&cs=tinysrgb&w=600"
                     alt="Our Workshop"
                     className="w-full h-80 object-cover rounded-2xl"
                   />

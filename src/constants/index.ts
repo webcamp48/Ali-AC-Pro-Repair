@@ -80,7 +80,7 @@ export const SERVICES = [
     descriptionArabic: 'حلول تكييف الهواء الكاملة للعقارات السكنية والتجارية',
     features: ['Installation of new units', 'Emergency repairs', 'Gas refilling', 'Duct cleaning', 'Thermostat repair'],
     featuresArabic: ['تركيب وحدات جديدة', 'إصلاحات طارئة', 'تعبئة الغاز', 'تنظيف المجاري', 'إصلاح منظم الحرارة'],
-    image: 'https://images.pexels.com/photos/2832097/pexels-photo-2832097.jpeg?auto=compress&cs=tinysrgb&w=600',
+    image: '/ac-2.jpg?auto=compress&cs=tinysrgb&w=600',
     price: 'Starting from SAR 150',
     priceArabic: 'يبدأ من 150 ريال سعودي',
     category: 'ac-services'
@@ -92,7 +92,7 @@ export const SERVICES = [
     descriptionArabic: 'إصلاح وصيانة خبير لجميع ماركات غسالات الملابس',
     features: ['Motor replacement', 'Drum repair', 'Water pump service', 'Control board repair', 'General maintenance'],
     featuresArabic: ['استبدال المحرك', 'إصلاح الطبلة', 'خدمة مضخة المياه', 'إصلاح لوحة التحكم', 'الصيانة العامة'],
-    image: 'https://images.pexels.com/photos/5591663/pexels-photo-5591663.jpeg?auto=compress&cs=tinysrgb&w=600',
+    image: '/washing-machine-1.jpg?auto=compress&cs=tinysrgb&w=600',
     price: 'Starting from SAR 120',
     priceArabic: 'يبدأ من 120 ريال سعودي',
     category: 'washing-machine'
@@ -104,7 +104,7 @@ export const SERVICES = [
     descriptionArabic: 'خدمات إصلاح الثلاجات والمجمدات الشاملة',
     features: ['Compressor repair', 'Cooling system service', 'Door seal replacement', 'Temperature control fix', 'Defrosting issues'],
     featuresArabic: ['إصلاح الضاغط', 'خدمة نظام التبريد', 'استبدال ختم الباب', 'إصلاح التحكم في درجة الحرارة', 'مشاكل إزالة الجليد'],
-    image: 'https://images.pexels.com/photos/4239013/pexels-photo-4239013.jpeg?auto=compress&cs=tinysrgb&w=600',
+    image: '/farig-1.jpg?auto=compress&cs=tinysrgb&w=600',
     price: 'Starting from SAR 180',
     priceArabic: 'يبدأ من 180 ريال سعودي',
     category: 'refrigerator'
